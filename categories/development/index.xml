@@ -7,23 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; All rights reserved by Pudy</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://copudy.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Sep 2021 20:00:00 +0800</lastBuildDate><atom:link href="https://copudy.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project Title</title>
-      <link>https://copudy.github.io/portfolio/project-1/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <link>https://copudy.github.io/portfolio/project-2/</link>
+      <pubDate>Tue, 14 Sep 2021 20:00:00 +0800</pubDate>
       
-      <guid>https://copudy.github.io/portfolio/project-1/</guid>
+      <guid>https://copudy.github.io/portfolio/project-2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Project Title</title>
-      <link>https://copudy.github.io/portfolio/project-2/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>Sky School</title>
+      <link>https://copudy.github.io/portfolio/skyschool-project/</link>
+      <pubDate>Tue, 14 Sep 2021 20:00:00 +0800</pubDate>
       
-      <guid>https://copudy.github.io/portfolio/project-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://copudy.github.io/portfolio/skyschool-project/</guid>
+      <description>▎能拚的時候，不要害怕吃苦！面對現實，終於理想，願明天更美好！</description>
     </item>
     
   </channel>

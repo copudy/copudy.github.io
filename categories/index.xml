@@ -7,20 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; All rights reserved by Pudy</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://copudy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Sep 2021 20:00:00 +0800</lastBuildDate><atom:link href="https://copudy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>database</title>
-      <link>https://copudy.github.io/categories/database/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>brand design</title>
+      <link>https://copudy.github.io/categories/brand-design/</link>
+      <pubDate>Tue, 14 Sep 2021 20:00:00 +0800</pubDate>
       
-      <guid>https://copudy.github.io/categories/database/</guid>
+      <guid>https://copudy.github.io/categories/brand-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
       <link>https://copudy.github.io/categories/design/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <pubDate>Tue, 14 Sep 2021 20:00:00 +0800</pubDate>
       
       <guid>https://copudy.github.io/categories/design/</guid>
       <description></description>
@@ -29,9 +29,18 @@
     <item>
       <title>development</title>
       <link>https://copudy.github.io/categories/development/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <pubDate>Tue, 14 Sep 2021 20:00:00 +0800</pubDate>
       
       <guid>https://copudy.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>database</title>
+      <link>https://copudy.github.io/categories/database/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://copudy.github.io/categories/database/</guid>
       <description></description>
     </item>
     
