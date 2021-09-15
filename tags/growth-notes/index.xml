@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Growth notes on Pudy&#39;s Portfolio</title>
+    <title>growth notes on Pudy&#39;s Portfolio</title>
     <link>https://copudy.github.io/tags/growth-notes/</link>
-    <description>Recent content in Growth notes on Pudy&#39;s Portfolio</description>
+    <description>Recent content in growth notes on Pudy&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; All rights reserved by Pudy</copyright>
-    <lastBuildDate>Mon, 13 Sep 2021 20:00:00 +0800</lastBuildDate><atom:link href="https://copudy.github.io/tags/growth-notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 20:00:00 +0800</lastBuildDate><atom:link href="https://copudy.github.io/tags/growth-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>簡報力訓練 9 重點</title>
+      <link>https://copudy.github.io/blog/speech/</link>
+      <pubDate>Wed, 15 Sep 2021 20:00:00 +0800</pubDate>
+      
+      <guid>https://copudy.github.io/blog/speech/</guid>
+      <description>簡報前要提前模擬演練過 → 簡報中注意力集中在自己身上 → 簡報過後為簡報做好一個總結，留給未來再次回顧&amp;hellip;</description>
+    </item>
+    
     <item>
       <title>S.M.A.R.T. 目標設定法</title>
       <link>https://copudy.github.io/blog/setting-goals/</link>
