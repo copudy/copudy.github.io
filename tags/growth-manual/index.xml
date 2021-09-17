@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sonder Article! on Pudy&#39;s Portfolio</title>
-    <link>https://copudy.github.io/blog/</link>
-    <description>Recent content in Sonder Article! on Pudy&#39;s Portfolio</description>
+    <title>growth manual on Pudy&#39;s Portfolio</title>
+    <link>https://copudy.github.io/tags/growth-manual/</link>
+    <description>Recent content in growth manual on Pudy&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; All rights reserved by Pudy</copyright>
-    <lastBuildDate>Fri, 17 Sep 2021 20:00:00 +0800</lastBuildDate><atom:link href="https://copudy.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Sep 2021 20:00:00 +0800</lastBuildDate><atom:link href="https://copudy.github.io/tags/growth-manual/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>數位時代必備 3 種職涯技能</title>
       <link>https://copudy.github.io/blog/career-skills/</link>
@@ -42,24 +42,6 @@
       
       <guid>https://copudy.github.io/blog/inter-level-communication/</guid>
       <description>與人溝通常常有一些需要注意的眉角，在與職位階級比自己高的人溝通的時候，更是需要有技巧的提前準備&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>This Is A Simple Blog Post</title>
-      <link>https://copudy.github.io/blog/blog-5/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://copudy.github.io/blog/blog-5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>This Is A Simple Blog Post</title>
-      <link>https://copudy.github.io/blog/blog-6/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://copudy.github.io/blog/blog-6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
   </channel>
