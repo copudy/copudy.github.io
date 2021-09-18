@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; All rights reserved by Pudy</copyright>
-    <lastBuildDate>Fri, 17 Sep 2021 20:00:00 +0800</lastBuildDate><atom:link href="https://copudy.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Sep 2021 20:00:00 +0800</lastBuildDate><atom:link href="https://copudy.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>數位時代必備 3 種職涯技能</title>
       <link>https://copudy.github.io/blog/career-skills/</link>
-      <pubDate>Fri, 17 Sep 2021 20:00:00 +0800</pubDate>
+      <pubDate>Sat, 18 Sep 2021 20:00:00 +0800</pubDate>
       
       <guid>https://copudy.github.io/blog/career-skills/</guid>
       <description>大網路時代，不論是學術殿堂或是職業商場幾乎可以說大小事都離不開網路，咱聚焦培養一下數位工作能力，輔佐自己戰無不勝&amp;hellip;</description>
@@ -20,7 +20,7 @@
     <item>
       <title>簡報力訓練 9 重點</title>
       <link>https://copudy.github.io/blog/speech/</link>
-      <pubDate>Thu, 16 Sep 2021 20:00:00 +0800</pubDate>
+      <pubDate>Fri, 17 Sep 2021 20:00:00 +0800</pubDate>
       
       <guid>https://copudy.github.io/blog/speech/</guid>
       <description>簡報前要提前模擬演練過 → 簡報中注意力集中在自己身上 → 簡報過後為簡報做好一個總結，留給未來再次回顧&amp;hellip;</description>
@@ -29,10 +29,19 @@
     <item>
       <title>S.M.A.R.T. 目標設定法</title>
       <link>https://copudy.github.io/blog/setting-goals/</link>
-      <pubDate>Wed, 15 Sep 2021 20:00:00 +0800</pubDate>
+      <pubDate>Thu, 16 Sep 2021 20:00:00 +0800</pubDate>
       
       <guid>https://copudy.github.io/blog/setting-goals/</guid>
       <description>如果你也常常設定了好多目標，完事率卻始終低迷；如果你心中明明有個明確的目標，但是又常常懶散、專注力不足&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>歷史上 4 場重大股災</title>
+      <link>https://copudy.github.io/blog/stock-market/</link>
+      <pubDate>Wed, 15 Sep 2021 20:00:00 +0800</pubDate>
+      
+      <guid>https://copudy.github.io/blog/stock-market/</guid>
+      <description>股災理論上是一種周而復始的社會金融現象，卻總是無預警的發生&amp;hellip;這是一篇股市小筆記，盤點歷史上的重大股災，到底都是如何發生的呢？</description>
     </item>
     
     <item>
@@ -42,15 +51,6 @@
       
       <guid>https://copudy.github.io/blog/inter-level-communication/</guid>
       <description>與人溝通常常有一些需要注意的眉角，在與職位階級比自己高的人溝通的時候，更是需要有技巧的提前準備&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>This Is A Simple Blog Post</title>
-      <link>https://copudy.github.io/blog/blog-5/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://copudy.github.io/blog/blog-5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
