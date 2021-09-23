@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; All rights reserved by Pudy</copyright>
-    <lastBuildDate>Sat, 18 Sep 2021 20:00:00 +0800</lastBuildDate><atom:link href="https://copudy.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Sep 2021 20:00:00 +0800</lastBuildDate><atom:link href="https://copudy.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>斜槓趨勢與價值帶來的職涯反思</title>
+      <link>https://copudy.github.io/blog/slash-reflection/</link>
+      <pubDate>Thu, 23 Sep 2021 20:00:00 +0800</pubDate>
+      
+      <guid>https://copudy.github.io/blog/slash-reflection/</guid>
+      <description>世界的工作結構正在轉變，人們會越來越重視自己的生活，不斷翻轉對於工作的既定模式，也希望自己的生活可以自己掌握&amp;hellip;</description>
+    </item>
+    
     <item>
       <title>數位時代必備 3 種職涯技能</title>
       <link>https://copudy.github.io/blog/career-skills/</link>
@@ -51,15 +60,6 @@
       
       <guid>https://copudy.github.io/blog/inter-level-communication/</guid>
       <description>與人溝通常常有一些需要注意的眉角，在與職位階級比自己高的人溝通的時候，更是需要有技巧的提前準備&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>This Is A Simple Blog Post</title>
-      <link>https://copudy.github.io/blog/blog-6/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://copudy.github.io/blog/blog-6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
   </channel>
