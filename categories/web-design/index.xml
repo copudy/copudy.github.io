@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web design on Pudy&#39;s Portfolio</title>
+    <link>https://copudy.github.io/categories/web-design/</link>
+    <description>Recent content in web design on Pudy&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; All rights reserved by Pudy</copyright>
+    <lastBuildDate>Thu, 16 Sep 2021 20:00:00 +0800</lastBuildDate><atom:link href="https://copudy.github.io/categories/web-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大仁小語&lt;br&gt;心理諮商所</title>
+      <link>https://copudy.github.io/portfolio/%E5%A4%A7%E4%BB%81%E5%B0%8F%E8%AA%9E%E5%BF%83%E7%90%86%E8%AB%AE%E5%95%86%E6%89%80/</link>
+      <pubDate>Thu, 16 Sep 2021 20:00:00 +0800</pubDate>
+      
+      <guid>https://copudy.github.io/portfolio/%E5%A4%A7%E4%BB%81%E5%B0%8F%E8%AA%9E%E5%BF%83%E7%90%86%E8%AB%AE%E5%95%86%E6%89%80/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Sky School</title>
+      <link>https://copudy.github.io/portfolio/skyschool-project/</link>
+      <pubDate>Wed, 15 Sep 2021 20:00:00 +0800</pubDate>
+      
+      <guid>https://copudy.github.io/portfolio/skyschool-project/</guid>
+      <description>▎能拚的時候，不要害怕吃苦！面對現實，終於理想，願明天更美好！</description>
+    </item>
+    
+  </channel>
+</rss>
