@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://copudy.github.io/tags/growth-manual/</loc>
-    <lastmod>2021-09-23T20:00:00+08:00</lastmod>
+    <loc>https://copudy.github.io/categories/</loc>
+    <lastmod>2022-03-16T20:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://copudy.github.io/portfolio/</loc>
+    <lastmod>2022-03-16T20:00:00+08:00</lastmod>
   </url><url>
     <loc>https://copudy.github.io/</loc>
+    <lastmod>2022-03-16T20:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://copudy.github.io/categories/web-design/</loc>
+    <lastmod>2022-03-16T20:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://copudy.github.io/portfolio/%E5%A4%A7%E4%BB%81%E5%B0%8F%E8%AA%9E%E5%BF%83%E7%90%86%E8%AB%AE%E5%95%86%E6%89%80/</loc>
+    <lastmod>2022-03-16T20:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://copudy.github.io/tags/growth-manual/</loc>
     <lastmod>2021-09-23T20:00:00+08:00</lastmod>
   </url><url>
     <loc>https://copudy.github.io/blog/</loc>
@@ -29,19 +41,7 @@
     <loc>https://copudy.github.io/blog/speech/</loc>
     <lastmod>2021-09-17T20:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://copudy.github.io/categories/</loc>
-    <lastmod>2021-09-16T20:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://copudy.github.io/portfolio/</loc>
-    <lastmod>2021-09-16T20:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://copudy.github.io/blog/setting-goals/</loc>
-    <lastmod>2021-09-16T20:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://copudy.github.io/categories/web-design/</loc>
-    <lastmod>2021-09-16T20:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://copudy.github.io/portfolio/%E5%A4%A7%E4%BB%81%E5%B0%8F%E8%AA%9E%E5%BF%83%E7%90%86%E8%AB%AE%E5%95%86%E6%89%80/</loc>
     <lastmod>2021-09-16T20:00:00+08:00</lastmod>
   </url><url>
     <loc>https://copudy.github.io/tags/financial-management/</loc>
@@ -56,28 +56,7 @@
     <loc>https://copudy.github.io/blog/inter-level-communication/</loc>
     <lastmod>2021-09-13T20:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://copudy.github.io/categories/database/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://copudy.github.io/categories/design/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://copudy.github.io/categories/logo/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://copudy.github.io/portfolio/project-3/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://copudy.github.io/portfolio/project-4/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://copudy.github.io/portfolio/project-5/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://copudy.github.io/portfolio/project-6/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://copudy.github.io/categories/sketch/</loc>
+    <loc>https://copudy.github.io/portfolio/lucy-%E5%B0%8F%E7%AA%A9%E8%AA%8C/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://copudy.github.io/funfacts/</loc>
