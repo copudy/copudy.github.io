@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio on Pudy&#39;s Portfolio</title>
-    <link>https://copudy.github.io/portfolio/</link>
-    <description>Recent content in Portfolio on Pudy&#39;s Portfolio</description>
+    <title>brand sketch on Pudy&#39;s Portfolio</title>
+    <link>https://copudy.github.io/categories/brand-sketch/</link>
+    <description>Recent content in brand sketch on Pudy&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; All rights reserved by Pudy</copyright>
-    <lastBuildDate>Sun, 12 Jun 2022 12:14:34 +0600</lastBuildDate><atom:link href="https://copudy.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jun 2022 12:14:34 +0600</lastBuildDate><atom:link href="https://copudy.github.io/categories/brand-sketch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>東堃生醫</title>
       <link>https://copudy.github.io/portfolio/%E6%9D%B1%E5%A0%83%E7%94%9F%E9%86%AB/</link>
@@ -51,15 +51,6 @@
       
       <guid>https://copudy.github.io/portfolio/lucy-%E5%B0%8F%E7%AA%A9%E8%AA%8C/</guid>
       <description>(待補)</description>
-    </item>
-    
-    <item>
-      <title>Sky School</title>
-      <link>https://copudy.github.io/portfolio/skyschool/</link>
-      <pubDate>Wed, 15 Sep 2021 20:00:00 +0800</pubDate>
-      
-      <guid>https://copudy.github.io/portfolio/skyschool/</guid>
-      <description>▎ 能拚的時候，不要害怕吃苦！面對現實，終於理想，願明天更美好！</description>
     </item>
     
   </channel>
