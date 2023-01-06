@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://copudy.github.io/categories/brand-sketch/</loc>
-    <lastmod>2022-06-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>https://copudy.github.io/categories/</loc>
     <lastmod>2022-06-12T12:14:34+06:00</lastmod>
   </url><url>
@@ -14,14 +11,17 @@
     <loc>https://copudy.github.io/</loc>
     <lastmod>2022-06-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://copudy.github.io/categories/web-page/</loc>
+    <loc>https://copudy.github.io/categories/website-works/</loc>
     <lastmod>2022-06-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://copudy.github.io/portfolio/%E6%9D%B1%E5%A0%83%E7%94%9F%E9%86%AB/</loc>
     <lastmod>2022-06-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://copudy.github.io/portfolio/%E5%BF%B5%E5%BF%B5%E4%BE%86%E8%83%8C%E5%8C%85%E5%AE%A2%E6%A3%A7/</loc>
-    <lastmod>2022-05-12T12:14:34+06:00</lastmod>
+    <loc>https://copudy.github.io/categories/graphic-design/</loc>
+    <lastmod>2022-05-28T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://copudy.github.io/portfolio/i-fun-moana/</loc>
+    <lastmod>2022-05-28T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://copudy.github.io/portfolio/%E6%B0%B4%E6%B0%B4%E6%9D%AF/</loc>
     <lastmod>2022-04-12T12:14:34+06:00</lastmod>
@@ -58,6 +58,9 @@
   </url><url>
     <loc>https://copudy.github.io/blog/setting-goals/</loc>
     <lastmod>2021-09-16T20:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://copudy.github.io/categories/digital-brand/</loc>
+    <lastmod>2021-09-15T20:00:00+08:00</lastmod>
   </url><url>
     <loc>https://copudy.github.io/tags/financial-management/</loc>
     <lastmod>2021-09-15T20:00:00+08:00</lastmod>
